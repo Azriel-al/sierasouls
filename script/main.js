@@ -10,10 +10,14 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hey sayang ❤️",
+    "haiii sayang ❤️",
     "aku mau ngomong sesuatu ",
     "coba pencet",
     "pencet lagi",
+    "pencet terusss",
+    "pencet lagi",
+    "pencet serraaa",
+    "sekali lagi deh",
     "ayo semangat mencetnya",
     "janji ini terakhir",
     "serius",
@@ -21,12 +25,12 @@ const messages = [
     "terakhir",
     "tapi bohong hehe yahahaaaa hayyuk",
     "aku tau pasti kamu kesel",
-    "hmm",
+    "hmmmmmm",
     "yaudah deh",
     "padahal",
     "aku cuma mau bilang",
     "kepasar beli terasi pulangnya makan kadal",
-    "i love you sayang❤️",
+    "i love you sayangggg❤️",
     "bjiirlah",
     "coba pencet tombol dibawah ini 💝"
 ];
